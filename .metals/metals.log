@@ -1,0 +1,43 @@
+[0m2021.10.05 22:13:04 INFO  Started: Metals version 0.10.7 in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA' for client Visual Studio Code 1.60.2.[0m
+[0m2021.10.05 22:13:10 INFO  time: initialize in 6.15s[0m
+[0m2021.10.05 22:13:14 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.05 22:13:14 WARN  no build tool detected in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+oct. 05, 2021 10:16:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+oct. 05, 2021 10:16:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+oct. 05, 2021 10:16:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+[0m2021.10.06 17:16:53 INFO  Started: Metals version 0.10.7 in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA' for client Visual Studio Code 1.60.2.[0m
+[0m2021.10.06 17:16:58 INFO  time: initialize in 5.48s[0m
+[0m2021.10.06 17:17:08 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.06 17:17:08 WARN  no build tool detected in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+oct. 06, 2021 7:28:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+[0m2021.10.23 16:34:19 INFO  Started: Metals version 0.10.7 in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA' for client Visual Studio Code 1.61.1.[0m
+[0m2021.10.23 16:34:22 INFO  time: initialize in 3.85s[0m
+[0m2021.10.23 16:34:28 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.23 16:34:28 WARN  no build tool detected in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.11.01 15:59:38 INFO  Started: Metals version 0.10.8 in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.01 15:59:42 INFO  time: initialize in 3.13s[0m
+[0m2021.11.01 15:59:48 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.01 15:59:48 WARN  no build tool detected in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.11.01 16:44:45 INFO  shutting down Metals[0m
+[0m2021.11.04 18:54:32 INFO  Started: Metals version 0.10.8 in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.04 18:54:40 INFO  time: initialize in 9.06s[0m
+[0m2021.11.04 18:54:50 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.04 18:54:50 WARN  no build tool detected in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+nov. 04, 2021 8:25:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+[0m2021.11.04 21:09:09 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA' for client Visual Studio Code 1.62.0.[0m
+[0m2021.11.04 21:09:13 INFO  time: initialize in 3.9s[0m
+[0m2021.11.04 21:09:22 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.04 21:09:22 WARN  no build tool detected in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.11.14 09:08:06 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA' for client Visual Studio Code 1.62.2.[0m
+[0m2021.11.14 09:08:16 INFO  time: initialize in 10s[0m
+[0m2021.11.14 09:08:25 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.14 09:08:25 WARN  no build tool detected in workspace 'C:\Users\LENOVO\Downloads\myNotebooks\Project_Assignement_Dataviz_HJA'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+nov. 14, 2021 9:42:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+nov. 14, 2021 10:21:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace

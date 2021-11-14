@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "adresse",
+        "Appartement",
+        "bati",
+        "Dépendance",
+        "dropna",
+        "fonciere",
+        "geopy",
+        "Hadi",
+        "numero",
+        "randn",
+        "reelle",
+        "vizualisation",
+        "voie"
+    ],
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}
